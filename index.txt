@@ -2,3 +2,5 @@
 2
 3
 git diff
+git reset
+git commit --amend2
